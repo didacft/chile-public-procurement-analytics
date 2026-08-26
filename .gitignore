@@ -1,0 +1,14 @@
+# Raw datasets
+data/raw/*
+!data/raw/.gitkeep
+
+# Processed datasets
+data/processed/*
+!data/processed/.gitkeep
+
+# Compressed source files
+*.7z
+*.zip
+
+# Temporary files
+*.tmp
