@@ -1,1 +1,1 @@
-CREATE DATABASE CustomerCommercialAnalyticsChile;
+CREATE DATABASE ChilePublicProcurementAnalytics;
