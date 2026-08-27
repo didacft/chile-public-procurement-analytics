@@ -1,0 +1,2 @@
+USE ChilePublicProcurementAnalytics;
+GO
